@@ -1,0 +1,4 @@
+javac -cp .;mysql-connector-j-9.7.0.jar Myclass.java
+java -cp .;mysql-connector-j-9.7.0.jar Myclass
+javac -cp .;mysql-connector-j-9.7.0.jar insertdemo.java
+java -cp .;mysql-connector-j-9.7.0.jar insertdemo
