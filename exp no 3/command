@@ -1,0 +1,3 @@
+javac StudentResult.java
+
+java StudentResult
