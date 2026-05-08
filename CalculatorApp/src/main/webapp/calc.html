@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Calculator</title>
+</head>
+<body>
+<h2>Simple Calculator</h2>
+<form action="CalculatorServlet" method="post">
+    Enter First Number: <input type="text" name="txtN1"><br><br>
+    Enter Second Number: <input type="text" name="txtN2"><br><br>
+    Select Operation:
+    <input type="radio" name="opr" value="+"> Addition
+    <input type="radio" name="opr" value="-"> Subtraction
+    <input type="radio" name="opr" value="*"> Multiply
+    <input type="radio" name="opr" value="/"> Divide
+    <br><br>
+    <input type="reset" value="Reset">
+    <input type="submit" value="Calculate">
+</form>
+</body>
+</html>
