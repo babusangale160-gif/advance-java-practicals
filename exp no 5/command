@@ -1,0 +1,10 @@
+create two cmd window
+in 1st
+cd "D:\java exp\exp no 5"
+javac *.java
+java rmiserver
+
+
+2nd window
+cd "D:\java exp\exp no 5"
+java rmiclient
