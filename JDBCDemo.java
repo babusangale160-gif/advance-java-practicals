@@ -39,3 +39,21 @@ public class JDBCDemo {
         }
     }
 }
+
+
+
+
+
+
+
+
+step for compile code 
+    1st new -javaproject-expno8-fhinsh
+    2nd-src-new -class-name JDBCDemo add psv main  finish
+    3rd -code paste 
+    4th-right click on expno 8  -properties-built in path add external jar file sinish and close
+    5th -run as a java application
+    step
+
+
+
